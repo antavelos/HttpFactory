@@ -1,15 +1,13 @@
 <?php
-// HttpFactory/Http/Request.php
+// HttpFactory/HttpCore/Request.php
 
-namespace HttpFactory\Core;
-
-use HttpFactory\Core\Curl;
+namespace HttpFactory\HttpCore;
 
 /**
  * Implements the HTTP request 
  * 
  * @author Alexandros Ntavelos
- * @package HttpFactory.Http
+ * @package HttpFactory.HttpCore
  */
 class Request extends Curl
 {

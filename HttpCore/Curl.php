@@ -1,13 +1,13 @@
 <?php
-// HttpFactory/Core/Curl.php
+// HttpFactory/HttpCore/Curl.php
 
-namespace HttpFactory\Core;
+namespace HttpFactory\HttpCore;
 
 /**
  * Wraps up the basic curl functions
  * 
  * @author Alexandros Ntavelos
- * @package HttpFactory.Core
+ * @package HttpFactory.HttpCore
  */
 class Curl
 {
